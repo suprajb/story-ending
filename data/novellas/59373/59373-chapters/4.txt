@@ -1,0 +1,39 @@
+
+Down in the bowels of the Hill was a great man-made cave. It had been
+carved out of the native iron, with rough pillars left to support the
+roof; walls and ceiling were lined with impermeable metal, but the
+floor was in its native state--who cared if there was seepage downward?
+
+The pile sat there, heart and life of the station.
+
+It was not a big one, just sufficient to maintain man on Triton.
+Part of its energy was diverted to the mercury-vapor turbines which
+furnished electricity. The rest went to heat the domes above.
+
+Now travel across trans-Jovian spaces is long and costly; even the
+smallest saving means much. Very heavy insulation against the haze of
+neutrons which the pile emitted could scarcely be hauled from Earth,
+nor had there been any reason to spend time and labor manufacturing it
+on Triton.
+
+Instead, pumps sucked in the hydrogen air and compressed it to about
+600 atmospheres. There is no better shield against high-energy
+neutrons; they bounce off the light molecules and slow down to a speed
+which makes them perfectly harmless laggards which don't travel far
+before decaying into hydrogen themselves. This, as well as the direct
+radiation of the pile, turned the room hot--some 500 degrees.
+
+So what was more natural than that the same hydrogen should be
+circulated through pipes of chrome-vanadium steel, which is relatively
+impenetrable even at such temperatures, and heat the domes?
+
+There was, of course, considerable loss of energy as the compressed gas
+seeped through the Hill and back into the satellite's atmosphere. But
+the pumps maintained the pressure. It was not the most efficient system
+which could have been devised; it would have been ludicrous on Earth.
+But on Triton, terminal of nowhere, men had necessarily sacrificed some
+engineering excellence to the stiff requirements of transportation and
+labor.
+
+And after all, it had worked without a hitch for many years on Saturn's
+largest moon. It had worked for two years on Neptune's--

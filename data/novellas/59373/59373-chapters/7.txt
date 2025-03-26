@@ -1,0 +1,98 @@
+
+They had set up a heater in his laboratory so he could work, but the
+test was quickly made. Gilchrist turned from his apparatus and nodded,
+grinning with victory. "That settles the matter. This sample from the
+pile room proves it. The air down there is about half ammonia."
+
+Vesey looked red-eyed at him. There hadn't been much harm done in the
+riot, but there had been a bad few minutes. "How's it work?" he asked.
+"I'm no chemist."
+
+Alemán opened his mouth, then bowed grandly. "You tell him, Thomas. It
+is your moment."
+
+Gilchrist took out a cigaret. He would have liked to make a cavalier
+performance of it, with Catherine watching, but his chilled fingers
+were clumsy and he dropped the little cylinder. She laughed and picked
+it up for him.
+
+"Simple," he said. With technicalities to discuss, he could speak well
+enough, even when his eyes kept straying to the girl. "What we have
+down there is a Haber process chamber. It's a method for manufacturing
+ammonia out of nitrogen and hydrogen--obsolete now, but still of
+interest to physical chemists like myself.
+
+"I haven't tested this sample for nitrogen yet, but there's got to be
+some, because ammonia is NH_{3}. Obviously, there's a vein of solid
+nitrogen down under the Hill. As the heat from the pile room penetrated
+downward, this slowly warmed up. Some of it turned gaseous, generating
+terrific pressure; and finally that pressure forced the gas up into the
+pile room.
+
+"Now, when you have a nitrogen-hydrogen mixture at 500 degrees and 600
+atmospheres, in the presence of a suitable catalyst, you get about a 45
+percent yield of ammonia--"
+
+"You looked that up," said Catherine accusingly.
+
+He chuckled. "My dear girl," he said, "there are two ways to know a
+thing: you can know it, or you can know where to look it up. I prefer
+the latter." After a moment: "Naturally, this combination decreases
+the total volume of gas; so the pump has to pull in more hydrogen from
+outside to satisfy its barystat, and more nitrogen is welling from
+below all the time. We've been operating quite an efficient little
+ammonia factory down there, though it should reach equilibrium as to
+pressure and yield pretty soon.
+
+"The Haber process catalyst, incidentally, is spongy iron with certain
+promoters--potassium and aluminum oxides are excellent ones. In other
+words, it so happened that the Hill is a natural Haber catalyst, which
+is why we've had this trouble."
+
+"And I suppose the reaction is endothermic and absorbs heat?" asked
+Catherine.
+
+"No ... as a matter of fact, it's exothermic, which is why the pile
+is actually a little hotter than usual, and that in spite of having
+to warm up all that outside air. But ammonia does have a considerably
+higher specific heat than hydrogen. So, while the gas in our pipes has
+the same caloric content, it has a lower temperature."
+
+"Ummm--" Vesey rubbed his chin. "And the radiation?"
+
+"Nitrogen plus neutrons gives carbon-14, a beta emitter."
+
+"All right," said Catherine. "Now tell us how to repair the situation."
+
+Her tone was light--after all, the answer was obvious--but it didn't
+escape Gilchrist that she _had_ asked him to speak. Or was he thinking
+wishfully?
+
+"We turn off the pile, empty the pipes, and go into the room in
+spacesuits," he said. "Probably the simplest thing would be to drill
+an outlet for the nitrogen vein and drop a thermite bomb down
+there ... that should flush it out in a hurry. Or maybe we can lay an
+impermeable floor. In any event, it shouldn't take more than a few
+days, which the batteries will see us through. Then we can go back to
+operation as usual."
+
+Vesey nodded. "I'll put Jahangir on it right away." He stood up and
+extended his hand. "As for you, Dr. Gilchrist, you've saved all our
+lives and--"
+
+"Shucks." His cheeks felt hot. "It was my own neck too."
+
+Before his self-confidence could evaporate, he turned to Catherine.
+"Since we can't get back to work for a few days, how about going down
+to the bar for a drink? I believe it'll soon be functioning again.
+And, uh, there'll doubtless be a dance to celebrate later--"
+
+"I didn't know you could dance," she said.
+
+"I can't," he blurted.
+
+They went out together. It is not merely inorganic reactions which
+require a catalyst.
+
+
+

@@ -1,0 +1,49 @@
+
+Avery creased another card and cleared his throat. "_Did_ you check the
+inverted twelve-by-twelve, Rothman?"
+
+"I suppose you think I forgot to. Have _you_ checked it?"
+
+"Yes, I have. I may not know much math, but I did check it."
+
+"Even after the Columbia boys said it was nonsense? Well, does it come
+out right?"
+
+"No, it doesn't! You multiply the inverted matrix by the original and
+you not only don't get zeros for all elements outside the diagonal,
+you get a haphazard assortment of ones and twos. Worse still, every
+element in the diagonal comes out equal to zero. The product of the two
+matrices is about as different from the identity matrix as anything
+could be. You're one of our most brilliant mathematicians--how could
+you manage to make so many mistakes in one set of calculations?"
+
+"Did I tell you that was an inverted matrix? Maybe, for this problem,
+you need something a little more advanced than algebra. Anyhow, if my
+math is all wrong, why did your first report okay it?"
+
+"What do you mean, my first report?"
+
+"The one you sent to Prexy. The one you later called in and burned.
+Except Prexy showed it to me and I photostated it. Here." Rothman
+reached into the pile of papers on his desk and drew out a little
+envelope. It contained photographic prints. He held one before Avery's
+glasses. "Does that look familiar?"
+
+Avery drew his hand across his forehead, but did not reply.
+
+"Is that true, Avery?" asked MacPherson. "Did you make a report okaying
+Rothman's calculations and then withdraw it?"
+
+"Well, what if I did? The report didn't seem to make me much more
+popular than Rothman was. What if some very influential people in
+Government explained to Prexy, and he explained to me, just how
+unpopular that first report might make me? Or suppose they didn't.
+Maybe I simply didn't find the mistakes in the math until later." Avery
+kept looking at his cards as he spoke.
+
+"Oh, great," said MacPherson. "Rothman gets put away here, Neill and
+I lose our jobs, and there's hell to pay in Washington, all because
+Avery says Rothman's math is full of holes. Now it turns out he wasn't
+sure and maybe was pressured into it. Grand. Between a screwball and a
+skunk, I'll choose the screwball. Maybe if Avery had stuck to his guns,
+there wouldn't have been any test."

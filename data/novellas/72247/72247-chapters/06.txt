@@ -1,0 +1,53 @@
+
+It took Rizzo a few hours to get everything properly set up. I did some
+arithmetic while he worked. If the message was in binary code, that
+meant that every cycle of the signal--every flick of the dancing line
+on our screen--carried a bit of information. The signal's wavelength
+was 5000 Angstroms; there are a hundred million Angstrom units to the
+centimeter; figuring the speed of light ... the signal could carry, in
+theory at least, something like 600 trillion bits of information _per
+second_.
+
+I told Rizzo.
+
+"Yeah, I know. I've been going over the same numbers in my head." He
+set a few switches on the computer control board. "Now let's see how
+many of the 600 trillion we can pick up." He sat down before the board
+and pressed a series of buttons.
+
+We watched, hardly breathing, as the computer's spools began spinning
+and the indicator lights flashed across the control board. Within a few
+minutes, the printer chugged to life.
+
+Rizzo swivelled his chair over to the printer and held up the unrolling
+sheet in a trembling hand.
+
+Numbers. Six-digit numbers. Completely meaningless.
+
+"Gibberish," Rizzo snapped.
+
+It was peculiar. I felt relieved and disappointed at the same time.
+
+"Something's screwy," Rizzo said. "Maybe I fouled up the circuits...."
+
+"I don't think so," I answered. "After all, what did you expect out of
+the computer? Shakespearean poetry?"
+
+"No, but I expected numbers that would make some sense. One and one,
+maybe. Something that means something. This stuff is nowhere."
+
+Our nerves must have really been wound tight, because before we knew
+it we were in the middle of a nasty argument--and it was over nothing,
+really. But in the middle of it:
+
+"Hey, look," Rizzo shouted, pointing to the oscilloscope.
+
+The message had stopped. The 'scope showed only the calm, steady line
+of the star's basic two-day-long pulsation.
+
+It suddenly occurred to us that we hadn't slept for more than 36
+hours, and we were both exhausted. We forgot the senseless argument.
+The message was ended. Perhaps there would be another; perhaps not. We
+had the telescope, spectrometer, photocell, oscilloscope, and computer
+set to record automatically. We collapsed into our bunks. I suppose I
+should have had monumental dreams. I didn't. I slept like a dead man.

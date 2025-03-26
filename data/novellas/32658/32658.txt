@@ -1,0 +1,509 @@
+Proofreading Team at https://www.pgdp.net
+
+
+
+
+
+    Transcriber's Note:
+
+    This etext was produced from IF Worlds of Science Fiction
+    February 1958. Extensive research did not uncover any evidence
+    that the U.S. copyright on this publication was renewed.
+
+
+
+
+
+
+
+    _The dilemma of "The Man in the White Suit" was but a minor
+    irritation compared to Charles and his "all-weather" suit!_
+
+
+                    THE STANDARDIZED MAN
+
+                    BY STEPHEN BARTHOLOMEW
+
+
+
+
+The turbocar swiped an embankment at ninety miles an hour; the result
+was, of course, inevitable. It was a magnificent crash, and the driver
+was thrown clear at the end of it for a distance of 50 feet.
+
+Charles looked at the body and got his bright idea.
+
+       *       *       *       *       *
+
+The trouble had started a couple of weeks before, when Edwin, Charles'
+laboratory co-ordinator, had called him into his office just before
+Charles was due to leave for home. It was a distinct breach of
+etiquette to cause a worker to arrive home at any time besides his
+accustomed hour, so Charles knew whatever Edwin wanted must be
+important. He sat down opposite the Co-ordinator and assumed a
+politely questioning look.
+
+"Charles, you know I wouldn't call you here at this hour if it wasn't
+important," Edwin said, pursing his lips.
+
+"Of course not, sir," Charles replied, waiting.
+
+"The fact of the matter is, we are in dire straits." Edwin stared at
+the other ominously. "As you well know, the Textile Industry, like
+every other business firm in the world, has functioned entirely
+without economic troubles of any sort for the past fifty years."
+
+"Well, of course, sir...."
+
+"And you are also well aware of what would be the results of any
+financial deviation in any of these firms, particularly in a major
+industry such as our own."
+
+"Certainly, sir. Ours is a delicately balanced economic system. Any
+slight change in the economic status of one firm would...."
+
+"Exactly!" Edwin leaned across the desk and glared at him. "I have
+just come from a Board of Directors meeting. And it was made known to
+us that during the past three weeks our margin of profit has fallen
+off by three tenths of a per cent!"
+
+Charles' face turned pasty white. He swallowed and took a deep breath.
+
+"Will that information be made public, sir?"
+
+"Naturally not! But we aren't sure just how long we can keep it a
+secret! The fact of the matter is, the IBM says that our profit margin
+will continue to spiral downward at a gradually increasing rate unless
+some drastic change occurs in our production set-up!"
+
+Edwin leaned back and clasped his hands, composing himself. "The
+precise reasons for the existence of the situation are quite obscure.
+However, the IBM has informed us that the problem can be remedied if
+we make a particular change in our production system, and it has
+informed us as to the nature of that change."
+
+He stood up and placed a finger on a capacitance switch. A panel in
+the Wall slid back to reveal six sales charts. There were two each
+marked _Winter_, _Summer_ and _Spring-Fall_. Three were designated
+_marlons_, and three _marilyns_. Each of them showed a red line rising
+steeply on the left, levelling out to a perfectly straight bar all the
+way across, then dipping sharply again.
+
+"Look here," Edwin said. "These are the sales charts for our six
+suits. As you know, we make three different types for marlons, and
+three for marilyns. Hot-weather, cold-weather, and medium-weather.
+Each suit is designed to last a carefully calculated length of time,
+and each consumer need only buy three suits a year. They are exactly
+alike except for slight size differences, and because of elastic
+fabrics these differences are held to a minimum. With this system the
+Textile Industry attained the ultimate in Standardization, the
+ultimate in efficiency."
+
+Charles rubbed his chin thoughtfully. "Has the IBM suggested any
+alternative to our system, any possible change?"
+
+Edwin sat down again, folded his arms on the desk, and scowled.
+"That's where you come in! The IBM informs us that there is only one
+possible way to stabilize our economy, to raise our profit margin to
+its former level--and that is by further standardization!"
+
+Charles raised his eyebrows. "You mean a sexless wardrobe, sir? That's
+been tried...."
+
+"No, that's _not_ what I mean!" Edwin snapped. "What I mean is an
+_all-weather suit_!"
+
+Charles swallowed audibly at that and said nothing.
+
+"You can see the advantages, of course," Edwin explained. "We'd need
+only to manufacture two types of suit, marlon and marilyn. Since we'd
+never have to adjust our factories, we could drop a lot of unnecessary
+technicians, and with the further standardization, manufacturing would
+be faster and cheaper--a _lot_ cheaper. The consumer would only
+purchase one suit a year, but we could make up for that by raising the
+prices somewhat."
+
+Charles finally got a word in. "But, _sir_! An all-weather suit? How
+can we design a suit that will be equally comfortable in the middle of
+a Florida heat-wave or a New England snowstorm?"
+
+"How? _How?_" Edwin's voice raised and his finger pointed. "_You're_
+the research chemist, Charles! You're supposed to tell _me_ how!"
+
+"Sir? I...."
+
+"Listen!" Edwin poked the other in the chest. "I assume you know what
+will happen to Society if the Textile Industry becomes economically
+unstable?"
+
+"Well, yes sir, but...."
+
+"Then I assume you realize that the Board of Directors will stop at
+nothing to preserve the status quo! And since you happen to be our
+chief industrial chemist, the entire problem lands in your lap! Now,
+we want to know how to make an all-weather suit, and we want to know
+_fast_. Therefore, Charles, you're going to tell us how to do it!
+Understand?"
+
+Charles nodded unhappily. "Yes sir, I understand."
+
+       *       *       *       *       *
+
+Charles went to work the next day after informing his wife that she
+could expect him to begin keeping rather irregular hours at the
+laboratory. The idea of any kind of irregularity was enough to worry
+any wife, and Ingrid was the naturally suspicious type. She was always
+nagging and had, upon occasion, even gone so far as to insinuate that
+Charles had individualist tendencies.
+
+So he knew that she would, embarrassingly, call Edwin to check up on
+him, but he didn't really care.
+
+The real problem was the all-weather suit.
+
+Charles put his small corps of assistants on the project,
+investigating several lines of thought at once. Every day, someone
+would drop around for a while to check on his progress, and he had no
+delusions about what would happen if he failed. The entire economic
+stability of his society depended on his coming up with an all-weather
+suit, and he began to have trouble sleeping nights.
+
+Eventually, he found what looked like a workable solution.
+
+He called Edwin to tell him about it, and Edwin came down to the lab
+to see for himself.
+
+"Is _this_ it?" he asked, picking up what looked like a burlap
+handkerchief.
+
+Charles cleared his throat. "Well, that's the first sample, sir. Of
+course, it's possible to obtain a finer weave once we find out a few
+things about it, and when it's bleached...."
+
+Edwin nodded impatiently. "Yes, yes. Well, what's so special about
+it?"
+
+"Well, it's made of a radically new type of fiber, sir...."
+
+"How's it new?"
+
+"I can show you more technical data on it, sir, but basically the
+difference between this and conventional types of fiber is that this
+is thermostatic."
+
+"How do you mean, thermostatic?"
+
+"Well, sir, basically, the diameter of the fiber is inversely
+proportional with the temperature. When the temperature rises, the
+fiber contracts, and when the temperature drops, it expands. So in
+cold weather, you have a fine, tight weave with good insulation, and
+in warm weather you have a loose weave with ventilation...."
+
+Edwin nodded and dropped the fabric on a lab bench. "Sounds good."
+
+"Well sir, we have to make a few more tests on it, and it'll have to
+be field tested before we can decide if it's safe to use in
+garments...."
+
+Edwin tapped him on the shoulder. "Test it, Charlie."
+
+"Sir?"
+
+Edwin frowned. "We don't have as much time as you think. We need that
+suit of yours _fast_. We can't afford to waste any more time puttering
+around the laboratory. You have the fellows downstairs make up some of
+this stuff into a Standard suit, and I want you to put it on yourself.
+What I mean is, _today_!"
+
+Charles' jaw dropped. "Today! But...."
+
+"No buts! Wear it a couple of days, and if you say it checks out, we
+go into production immediately."
+
+So Charles went home that night in a new suit and a worried frown.
+
+       *       *       *       *       *
+
+Things were smooth for about two days. Charles continued to wear the
+suit and Edwin insisted on his making the preliminary preparations for
+the mass-production of thermostatic fabric. Charles was kept busy
+working out specifications.
+
+Then there were two factors that brought about a drastic change in his
+life.
+
+One was that he was worried. Charles wasn't exactly sure what he was
+worried about, but at the back of his mind there was something in the
+complicated molecular structure of the new fiber that bothered him.
+
+The other factor was that Ingrid was still nagging him. Perhaps if
+Charles had been able to tell her what he was working on she would
+have understood why he was worried. But he didn't tell her, and she
+didn't understand.
+
+One day after Charles had come home and eaten, she started an argument
+with him about something or other, and in the most heated part of the
+battle she had hurled at him the supreme insult.
+
+"Charles," she said, "I think you _look_ different!"
+
+Coupled with the strain that Charles was under, that had been enough
+to make him stare at Ingrid for a moment, wheel and stalk out of the
+apartment.
+
+After all, to say that one's face was even subtly different--even if
+it really was--was an unforgivable insult.
+
+Charles went out for a long, solitary evening walk and ended up at one
+of those places that features six varieties of beer, a continuous
+floor show and a loud band. Charles was not quite aware of entering,
+but once inside, watching the bump-and-grinders who wore nothing but
+their name tags, he found it difficult to leave.
+
+The room was just ventilated enough to prevent suffocation, but it was
+purposely kept hot and stuffy in the hope that this would induce
+thirst on the part of the customers.
+
+When he thought about it later he decided it was undoubtedly the
+humidity that had caused the catastrophe, but when it happened he
+hadn't the foggiest notion what was going on.
+
+All he knew was that he had signalled a waitress for a third beer, she
+had come threading her way between the postage-stamp tables, he had
+looked up to give his order, she had looked down impersonally, and
+then there was a scream.
+
+It took a moment to realize that the waitress was screaming at him,
+and by that time there were shouts from the surrounding tables as
+well, and men and women alike were stumbling all over themselves to
+get away from Charles.
+
+In no time at all, there was a first-rate riot in progress, then the
+lights went out, and Charles had brains enough to fight his way to an
+exit and slip into the dark alley outside.
+
+And then Charles inspected himself and realized the horrible truth.
+
+       *       *       *       *       *
+
+The key concept to Charles' society was expressed in the word
+_Standardization_. Standardization had had its beginning in the early
+Industrial Revolution, when men first discovered that it was far more
+efficient to make a thousand pieces of furniture if you made them all
+exactly alike.
+
+And since efficiency means economic predictability, and since
+predictability means stability, Standardization quickly became the
+watchword in the world's new industrial economy.
+
+So, in time, virtually every product manufactured was standardized.
+From the smallest bolts and screws in a wristwatch, through automobile
+license plates, to clothing styles; everything manufactured was
+strictly standard equipment.
+
+Of course, the only unpredictable factor in this structure was the
+human element, therefore the logical answer was a standardized
+consumer.
+
+The trend had started, undoubtedly, in Hollywood. The Art of
+Cinematography had not existed long before becoming the Motion Picture
+Industry. And, naturally, an industry must be efficient.
+
+The Hollywood tycoons had decided that the best way to reduce the
+margin of risk on any new movie star was to create an arbitrary
+criterion, and to require the potential star to measure up to that
+standard.
+
+Charles was absently aware that the female standard of beauty had been
+exemplified by a woman named Marilyn, and that the masculine standard
+had been represented in someone named Marlon.
+
+So, gradually, all of the new female stars that were selected by
+Hollywood resembled Marilyn as much as possible, and male leads were
+selected to look like Marlon. If anyone had a nose that wasn't quite
+right, or large ears, a little plastic surgery quickly remedied the
+problem, and if a female starlet happened to have brown hair, peroxide
+was always handy.
+
+And in time, it became increasingly difficult to tell one movie star
+from another.
+
+Then the standard, idealized faces and their standards, idealized
+personal mannerisms became socially fashionable, and with modern
+cosmetics and readily available plastic surgery, the fashionable men
+and women in society began to imitate the ideal.
+
+It became not only fashionable to wear the Standard face, but indecent
+_not_ to do so. Social conformity was encouraged as much as possible,
+and the end result was the closest thing to a Standardized,
+predictable consumer as there ever could be.
+
+This might have produced difficult problems, because with all women
+and all men wearing identical clothing and identical faces, it might
+have become impossible to tell one person from another, which was not
+desirable even in a Standardized world.
+
+Along with the Standard face had come name tags by which a person
+might individualize himself to the minimum necessary degree.
+
+These name tags were worn about the neck on a colorful plastic band,
+with the tag itself, a white plastic card, on the right side of the
+neck. On the tag, in gold lettering, was the person's name, address,
+and Social Security number.
+
+And--they were worn _all_ the time.
+
+The name tag was the only means by which a person might be identified.
+Without it, anyone might impersonate anyone else he pleased. So, of
+course, it became obscene to appear in public without one.
+
+And Charles, standing in the alley, looked down at himself and
+realized the horrible truth.
+
+       *       *       *       *       *
+
+He found himself running through back streets, sidling around corners,
+and darting into doorways.
+
+After an hour or two, he realized that he was no longer within the
+City Limits.
+
+Charles took a good look around him and discovered he was standing on
+a minor highway just outside of town. There were no cars or people in
+sight, and he dropped off the road into some bushes to get his wind
+and think.
+
+He had _known_ there was something wrong with the molecular structure
+of the suit he was wearing, but Edwin wouldn't listen.
+
+It had undoubtedly been the humidity. The chemical process had no
+doubt been going on since he'd first donned the suit, but it had been
+the heat in that beer joint that had accelerated the action enough to
+finish the job. Human perspiration acting on the new fiber in the
+collar of his suit produced some obscure chemical reaction which had a
+corrosive effect on the plastic band and plastic card of his name tag.
+
+He had to get home, somehow, and tell Edwin to hold up production on
+the new thermostatic suit. Perhaps the flaw in it could be eliminated
+in a short time. If it couldn't....
+
+He considered. The world Dollar Standard had been absolutely stable
+for more years than he knew about. What would happen if it suddenly
+became unstable? A fluctuation of even a fraction of a cent would
+cause widespread panic; it would jolt the Public's faith in its
+infallible economic system. And the panic would cause further
+deviation in the Dollar's purchasing power, and--more panic.
+
+He wiped his brow. If the situation in the Textile Industry was as
+critical as Edwin said it was, then Edwin and his superiors weren't
+going to be at all happy when Charles told them about the suit--and
+Charles was going to be the fall guy.
+
+But of course he had to get back and tell them. Because Edwin was all
+set to start production on the all-weather suit immediately, and if he
+actually went through with that and got a few million of them onto
+consumer's backs, the result would be not panic, but disaster.
+
+And Charles' present problem was how to get home without being
+arrested.
+
+       *       *       *       *       *
+
+It was then that one individual got an extremely tough break, and
+Charles got his first lucky one.
+
+A turbocar came barreling down the highway and, without warning struck
+an embankment. The driver was thrown fifty feet from the wreckage.
+
+Under different circumstances, he would never have considered doing
+what he did then. The penalty for wearing another person's name tag
+was severe. But Charles was under an extreme emotional strain; and
+without even thinking, he bent over the limp grey form of the other
+marlon and removed his tag.
+
+He straightened, then, clutching the plastic band and looking around
+at the smoking wreck. Already, he could hear a siren somewhere in the
+night.
+
+He slipped the name tag over his head and struck out through the
+bushes toward the city.
+
+His plan was simple; he had another name tag in his apartment for
+emergency purposes, and if Ingrid was in bed he'd have no trouble
+getting it, destroying the one he was wearing now, and putting on his
+other suit.
+
+Briefly, he wondered what the police would think of finding a body
+near a smashed car with no name tag. They'd probably decide it was the
+same person that had caused the disturbance at the night club earlier
+in the evening.
+
+Charles realized that the lettering on the car had indicated it was a
+public, coin-operated vehicle, so the authorities would have no means
+of identifying the body.
+
+After awhile it occurred to him that if he should go into hiding
+someplace, the body might easily be identified as his own, and he
+wouldn't have to worry about what Edwin and the other bosses would do
+to him. It probably wouldn't be noticed that the torn and
+blood-spattered clothes on the corpse were not thermostatic. But he
+shook his head resolutely. Even if he were crazy enough to try it, the
+body would be reported missing by somebody or other, so that would
+never do.
+
+Eventually, Charles reached a main thoroughfare in the city and hailed
+a cab. He climbed in the back, told the driver briefly to take him
+home, and then slumped down in the seat and brooded.
+
+He stared out the window, watching the buildings go by, and the
+emotional reaction of the evening began to set in. Morbidly, Charles
+wondered what they'd do to him if he kept his mouth shut and let the
+Industry put the suit into production, and waited for the millions of
+ID tags to begin to drop off.
+
+The prospect was so frightening that his apprehension over what would
+happen if it was discovered he was wearing somebody else's tag almost
+disappeared.
+
+Finally, the cab rolled to a stop. Charles got out and dropped some
+coins into the hand protruding from the front seat, and, head low, he
+turned and entered the apartment house.
+
+He trudged dismally up the stairs, thinking about his wife. He
+wondered what would happen if she were awake and waiting for him. If
+she saw that he had on somebody else's name tag.
+
+The door was unlocked.
+
+And the light was on.
+
+He wondered if he could duck into the bedroom without being seen, and
+then someone leaped at him and he knew it was too late.
+
+"Oh, James dear!" she cried, throwing her arms around Charles' neck.
+"When you walked out of here, I thought you'd never come back to me!"
+
+Charles looked at the marilyn's name tag with slow horror and realized
+that in his preoccupation, out of sheer force of habit, he had simply
+said to the cab driver, "Take me home," and the driver had looked at
+the address on his tag and complied. The apartment building so much
+resembled Charles' own that he hadn't known the difference, and he
+hadn't bothered to look at the number on the door.
+
+When Charles walked in, this Marilyn, Stasia her name was, had looked
+at his name tag and thought he was her James. She didn't have the
+slightest idea of who he really was.
+
+Then Charles closed his eyes, swallowed, and knew something else.
+
+It really didn't make the least bit of difference _who_ he was. And of
+course, the solution to all his troubles was obvious.
+
+With a sigh, Charles leaned over Stasia and kissed her.
+
+
+                   END
+
+
+
+

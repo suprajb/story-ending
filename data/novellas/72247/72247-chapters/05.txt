@@ -1,0 +1,78 @@
+
+The question broke our entranced mood. What do we do? What action do we
+take? We're thinking men, and we've been contacted by other creatures
+that can think, reason, send a signal across seven hundred lightyears
+of space. So don't just sit there in stupified awe. Use your brain,
+prove that you're worthy of the tag _sapiens_.
+
+"We decode the message," I announced. Then, as an after-thought, "But
+don't ask me how."
+
+We should have called McMurdo, or Washington. Or perhaps we should have
+attempted to get a message through to the United Nations. But we never
+even thought of it. This was our problem. Perhaps it was the sheer
+isolation of our dome that kept us from thinking about the rest of the
+world. Perhaps it was sheer luck.
+
+"If they're using lasers," Rizzo reasoned, "they must have a technology
+something like ours."
+
+"Must _have had_," I corrected. "That message is seven hundred years
+old, remember. They were playing with lasers when King John was signing
+the Magna Charta and Genghis Khan owned most of Asia. Lord knows what
+they have now."
+
+Rizzo blanched and reached for another cigaret.
+
+I turned back to the oscilloscope. The signal was still flashing across
+its face.
+
+"They're sending out a signal," I mused, "probably at random. Just
+beaming it out into space, hoping that someone, somewhere will pick it
+up. It must be in some form of code ... but a code that they feel can
+be easily cracked by anyone with enough intelligence to realize that
+there's a message there."
+
+"Sort of an interstellar Morse code."
+
+I shook my head. "Morse code depends on both sides knowing the code.
+There's no key."
+
+"Cryptographers crack codes."
+
+"Sure. If they know what language is being used. We don't know the
+language, we don't know the alphabet, the thought processes ...
+nothing."
+
+"But it's a code that can be cracked easily," Rizzo muttered.
+
+"Yes," I agreed. "Now what the hell kind of a code can they assume will
+be known to another race that they've never seen?"
+
+Rizzo leaned back on his bunk and his face was lost in shadows.
+
+"An interstellar code," I rambled on. "Some form of presenting
+information that would be known to almost any race intelligent enough
+to understand lasers...."
+
+"Binary!" Rizzo snapped, sitting up on the bunk.
+
+"What?"
+
+"Binary code. To send a signal like this, they've gotta be able to
+write a message in units that're only a billionth of a second long.
+That takes computers. Right? Well, if they have computers, they must
+figure that we have computers. Digital computers run on binary code.
+Off or on ... go or no-go. It's simple. I'll bet we can slap that
+signal on a tape and run it through our computer here."
+
+"To assume that they use computers exactly like ours...."
+
+"Maybe the computers are completely different," Rizzo said excitedly,
+"but the binary code is basic to them all. I'll bet on that! And this
+computer we've got here--this transistorized baby--she can handle
+more information than the whole Army could feed into her. I'll bet
+nothing has been developed anywhere that's better for handling simple
+one-plus-one types of operations."
+
+I shrugged. "All right. It's worth a trial."

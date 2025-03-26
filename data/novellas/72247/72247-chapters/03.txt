@@ -1,0 +1,68 @@
+
+I happened to be studying a Cepheid variable star--one of the huge,
+very bright stars that pulsate so regularly that you can set your
+watch by them. It had attracted my attention because it seemed to be
+unusually close for a Cepheid--only 700 lightyears away. The distance
+could be easily gauged by timing the star's pulsations.[1]
+
+[Footnote 1: _Astronomers have been able, since about 1910, to estimate
+the distances of Cepheid variable stars by timing their pulsations.
+The length of this type of star's pulsation is a true measure of its
+intrinsic brightness. Comparing the star's actual brightness to its
+apparent brightness, as seen from Earth, gives a good value for the
+star's distance._]
+
+I talked Rizzo into helping me set up a spectrometer. We scavenged
+shamelessly from the dome's spare parts bin and finally produced an
+instrument that would break up the light of the star into its component
+wavelengths, and thereby tell us much about the star's chemical
+composition and surface temperature.
+
+At first I didn't believe what I saw.
+
+The star's spectrum--a broad rainbow of colors--was criss-crossed with
+narrow dark lines. That was all right. They're called absorption lines;
+the Sun has thousands of them in its spectrum. But one line--_one_--was
+an insolently bright emission line. All the laws of physics and
+chemistry said it couldn't be there.
+
+But it was.
+
+We photographed the star dozens of times. We checked our instruments
+ceaselessly. I spent hours scanning the star's "official" spectrum
+in the microspool reader. The bright emission line was not on the
+catalogue spectrum. There was nothing wrong with our instruments.
+
+Yet the bright line showed up. It was real.
+
+"I don't understand it," I admitted. "I've seen stars with bright
+emission spectra before, but a single bright line in an absorption
+spectrum! It's unheard-of. One single wavelength ... one particular
+type of atom at one precise energy-level ... why? Why is it emitting
+energy when the other wavelengths aren't?"
+
+Rizzo was sitting on his bunk, puffing a cigaret. He blew a cloud of
+smoke at the low ceiling. "Maybe it's one of those laser signals you
+were telling me about a couple weeks ago."
+
+I scowled at him. "Come on, now. I'm serious. This thing has me
+puzzled."
+
+"Now wait a minute ... you're the one who said radio astronomers were
+straining their ears for nothing. You're the one who said we ought to
+be looking. So look!" He was enjoying his revenge.
+
+I shook my head, and turned back to the meteorological equipment.
+
+But Rizzo wouldn't let up. "Suppose there's an intelligent race living
+on a planet near a Cepheid variable star. They figure that any other
+intelligent creatures would have astronomers who'd be curious about
+their star, right? So they send out a laser signal that matches the
+star's pulsations. When you look at the star, you see their signal.
+What's more logical?"
+
+"All right," I groused. "You've had your joke...."
+
+"Tell you what," he insisted. "Let's put that one wavelength into an
+oscilloscope and see if a definite signal comes out. Maybe it'll spell
+out 'Take me to your leader' or something."

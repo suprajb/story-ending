@@ -1,0 +1,85 @@
+
+Suddenly the sleek cylinder disappeared in a puff of smoke, which
+quickly dissipated in the surrounding vacuum. What had been a
+precisely-built rocket had been reduced, by carefully-placed charges of
+explosive, to a collection of chunks of metal. Some were plates from the
+skin and fuel tanks. Others were large lumps from the computer-banks,
+gyro platform, fuel pumps, and other more massive components. This was
+not wanton destruction, however. It was more careful planning by the
+same brains which had devised the missile itself. To a radar set on the
+ground near the target, each fragment was indistinguishable from the
+nose cone carrying the warhead. In fact, since the fragments were
+separating only very slowly, they never would appear as distinct
+objects. By the time the cloud of decoys entered the atmosphere, its
+more than two dozen members would appear to the finest radar available
+on the ground as a single echo twenty-five miles across. It would be a
+giant haystack in the sky, concealing the most deadly needle of all
+time. No ground-controlled intercept scheme had any hope of selecting
+the warhead from among that deceptive cloud and destroying it.
+
+The cloud of fragments possessed the same trajectory as the missile
+originally had. At the rate it was overtaking RI 276, it would soon pass
+the ship by. The autopilot of RI 276 had no intention of letting this
+happen, of course. At the correct instant, stage two thundered into
+life, and Harry Lightfoot was again smashed back into his acceleration
+couch. Almost absentmindedly, the ship continued to minister to his
+needs. Its attention was focused on its mission. After a while, the
+ground computer sent some instructions to the ship. The navigation
+computer converted these into a direction, and pointed a radar antenna
+in that direction. The antenna sent forth a stream of questing pulses,
+which quickly returned, confirming the direction and distance to the
+oncoming cloud of missile fragments. A little while later, fuel pumps
+began to whine somewhere in the tail of the ship. Then the acceleration
+dropped to zero as the second-stage thrust was terminated. There was a
+series of thumps as explosive bolts released the second stage. The whine
+of the pumps dropped in pitch as fuel gushed through them, and
+acceleration returned in a rush. The acceleration lasted for a few
+seconds, tapered off quickly, and ended. A light winked on on the
+instrument panel as the ship announced its mission was accomplished.
+
+Major Harry Lightfoot, fighter pilot, felt a glow of satisfaction as he
+saw the light come on. He might not have reflexes fast enough to pilot
+the ship up here; he might not be able to survive the climb to intercept
+without the help of a lot of fancy equipment; but he was still
+necessary. He saw still one step ahead of this complex robot which had
+carried him up here. It was his human judgment and his ability to react
+correctly in an unpredictable situation which were needed to locate the
+warhead from among the cluster of decoys and destroy it. This was a job
+no merely logical machine could do. When all was said and done, the only
+purpose for the existence of this magnificent machine was to put him
+where he was now; in the same trajectory as the missile, and slightly
+behind it.
+
+Harry Lightfoot reached for a red-handled toggle switch at the top of
+the instrument panel, clicked it from AUTO to MANUAL, and changed his
+status from passenger to pilot. He had little enough time to work. He
+could not follow the missile down into the atmosphere; his ship would
+burn up. He must begin his pull-out at not less than two hundred miles
+altitude. That left him one hundred eighty-three seconds in which to
+locate and destroy the warhead. The screen in the center of his
+instrument panel could show a composite image of the space in front of
+his ship, based on data from a number of sensing elements and detectors.
+He switched on an infrared scanner. A collection of spots appeared on
+the screen, each spot indicating by its color the temperature of the
+object it represented. The infrared detector gave him no range
+information, of course. But if the autopilot had done its job well, the
+nearest fragment would be about ten miles away. Thus even if he set off
+the enemy warhead, he would be safe. At that range the ship would not
+suffer any structural damage from the heat, and he could be down on the
+ground and in a hospital before any radiation effects could become
+serious.
+
+He reflected quickly on the possible temperature range of the missile
+components. The missile had been launched from Central Asia, at night,
+in January. There was no reason to suppose that the warhead had been
+temperature-controlled during the pre-launch countdown. Thus it probably
+was at the ambient temperature of the launch site. If it had been fired
+in the open, that might be as low as minus 70 deg. F. Had it been fired from
+a shelter, that might be as high as 70 deg. F. To leave a safety margin, he
+decided to reject only those objects outside the range plus or minus
+100 deg. F. There were two fragments at 500 deg. F. He rejected these as
+probably fragments of the engine. Six more exhibited a temperature of
+near minus 320 deg. F. These probably came from the liquid oxygen tanks.
+They could be rejected. That eliminated eight of the objects on the
+screen. He had nineteen to go. It would be a lot slower for the rest,
+too.

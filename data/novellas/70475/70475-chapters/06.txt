@@ -1,0 +1,63 @@
+
+The case came open in the middle; this control panel and its insides
+filled one half of the split case. The other half was open behind it,
+and it was obvious that the equipment standing next to the control
+panel fitted neatly into the open half of the carrying case.
+
+The base of this equipment was a larger cylinder made up of an
+electromagnet. The core was laminated, the ends of the laminations
+showed across the flat dome of the cylinder. The coil of wire came up
+even with the top of the laminations so that little of the surface of
+the cylinder could be seen. The bottom was a flat circle of metal large
+enough to extend beyond the coil; it made a neat base. Rising from the
+metal base were three metal struts that passed up (almost touching the
+outside of the electromagnet) to a superstructure above the flat face
+of the laminated core of the magnet. It was obvious that the sample
+would rest on this flat face.
+
+The three struts held a spiral of glass tubing that was terminated in
+electrodes similar to the terminals of a neon sign tubing; these were
+connected to the cable that led from the gear to the control box. Atop
+the glass spiral was a flat circle of aluminum.
+
+"Radioactivity is a state of instability in the nucleus," explained
+Velikof.
+
+Mangler nodded. Velikof had said nothing that could not be obtained
+from a fundamental book on atomics, circa 1935.
+
+"The condition known as half-life obtains because of the statistical
+nature of atomic structure. Any single atom is not radioactive; it
+is only in an instable state in which it contains more than enough
+energy to hold it together. When it ejects this excess energy, it is
+radioactive only for that instant. Then it becomes a stable nucleus.
+But when a statistical quantity of such atoms are present--and
+any gross matter no matter how minute will contain a statistical
+quantity--there is always some number of atoms in the radioactive state
+of ejecting the excess energy. Some do it quickly; others take their
+time.
+
+"In order to remove the excess energy all at once it is necessary to
+control the nuclear particles themselves."
+
+"Which--up to now--has not been done," suggested Mangler.
+
+"Right," beamed Velikof. "An instable atom can be considered as a
+billiard table with the balls in motion. The stable state consists of
+the balls at rest. In the radioactive atom, the balls contain a total
+excess energy sufficient to drive any one of the balls from the table
+but this excess energy is divided among them. Until the random motion
+of the components and the attendant transfer of energy from one to the
+other results in one component eventually containing this excess energy
+all to itself, nothing happens. Then, when this does happen, the ball
+has enough energy to leave the place--in other words, the particle is
+ejected."
+
+"Fundamental," said Mangler. "But how do you control the nuclear
+particles with this equipment?"
+
+"By inserting the radioactive sample in fields which work on the
+electrostatic, the momentomagnetic, and the mechanogravitic properties
+of the nucleus."
+
+"This I've got to see," said Mangler.

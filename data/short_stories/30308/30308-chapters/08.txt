@@ -1,0 +1,129 @@
+
+It took better than an hour to get the ship straightened out. For the
+main job, emergency rockets were set off at the appropriate spots
+around the hull to counteract the rotation. The final trimming was
+done with carbon dioxide fire extinguishers, which Smith and Jayjay
+Kelvin used as jets.
+
+Getting a fix on Pluto was easy enough; the lighthouse station at Styx
+broadcast a strong beep sunward every ten seconds. They could also
+pick up the radio lighthouses on Eros, Ceres, Luna, and Mimas.
+Evidently, the one on Titan was behind the Jovian bulk.
+
+They were ready to send their distress call.
+
+"It's simple," Smith said as he opened the red panel in the wall of
+the control room. "First we turn on the receiver." He pushed a button
+marked _R_. "Then we turn these two wheels here until the pip on that
+little screen is centered. That's the signal from Pluto. It comes in
+strong every ten seconds, see?"
+
+Jayjay watched with interest. He'd heard about screamers and had seen
+them, but he'd never had the opportunity of observing one in action.
+
+Like flares or bombs, they were intended for one-time use. The
+instructions were printed plainly on the inside of the red door, and
+Smith was simply reading off what was printed there.
+
+"These wheels," he was saying, "line up the parabolic reflector with
+the Pluto signal, you see. There. Now we've got it centered. Now, all
+we have to do is make one small correction and we're all set. These
+things are built so that they're fool-proof; a kid could operate it.
+Watch."
+
+Facing each other across a small gap were a pair of tapered screw
+plugs, one male and one female. The male was an average of half an
+inch in diameter; the female was larger and bored to fit the male.
+
+"The female plug," Smith said, "leads to two tanks of high-pressure
+gas inside this cabinet on the left. One tank of oxygen, one of
+hydrogen. See how this male plug telescopes out to fit into the
+female? All we have to do is thread them together, and everything is
+automatic."
+
+Jayjay was aware that Smith's explanations were meant to give Jeffry
+Hull something to think about instead of his fears. Hull was basically
+an Earth-hugger, and free fall did nothing to keep him calm. Evidently
+his subconscious knew that he had to latch on to something to keep his
+mental equilibrium, because he showed a tremendous amount of interest
+in what should have been a routine operation.
+
+"How do you mean, it's all automatic?" he asked. "What happens?"
+
+"Well, you can't see into the female plug, but look here at the male.
+See those concentric tubes leading into the interior of the cabinet on
+the right? The outer one leads in the oxygen, the inner leads in the
+hydrogen. We need twice as much hydrogen as oxygen, so the inner tube
+has twice the volume delivery as the outer. See?"
+
+"Yes. But what is the solid silver bar in the center of the inner
+tube?"
+
+"That's the electrical connection for the starter battery. There's a
+small, short-lived chemical battery, like the ones in an ordinary
+pocket radio, except that they're built to deliver a high-voltage,
+high-amperage current for about a tenth of a second. That activates
+the H-O cell, you see. Also, that silver stud depresses the
+corresponding stud in the female plug, which turns on the gas flow
+before it makes the connection with the starter battery. Follow?"
+
+Hull didn't look as though he did, but he nodded gamely. "Then what
+happens?"
+
+"Then the hydrogen and the oxygen come together in the fuel cell and,
+instead of generating heat, they generate electric current. That
+current is fed into the radio unit, and the signal is sent to Pluto.
+Real simple."
+
+"I see," Hull said. "Well ... go ahead."
+
+Smith telescoped the two leads together and began turning the collar
+on the female plug.
+
+He screwed it up as far as it would go.
+
+And nothing happened.
+
+"What the hell?" asked Smith of no one in particular. He tried to
+twist it a little harder. Nothing happened. The threads had gone as
+far as they would go.
+
+"What's the matter?" Jayjay asked.
+
+"Damfino. No connection. Nothing's happening. And it's as tight as it
+will go."
+
+"Are the gases flowing?" Jayjay asked.
+
+"I don't know. These things aren't equipped with meters. They're
+supposed to work automatically."
+
+Jayjay pushed Smith aside. "Let me take a look."
+
+Smith frowned as though he resented an ordinary passenger shoving him
+around, but Jayjay ignored him. He cocked his head to one side and
+looked at the connection. "Hm-m-m." He touched it with a finger. Then
+he wet the finger with his tongue and touched the connection again.
+"There's no gas flow, Smith."
+
+"How do you know?" Smith was still frowning.
+
+"There's a gap there. That tapered thread isn't in tight. If there
+were any gas flowing, it would be leaking out." Before Smith could say
+anything Jayjay began unscrewing the coupling. When it came apart, it
+looked just the same as it had before Smith had put it together.
+
+In the dim glow from the emergency lights, it was difficult to see
+anything.
+
+"Got an electric torch?" Jayjay asked.
+
+Smith pushed himself away from the screamer panel and came back after
+a moment with a flashlight. "Let me take a look," he said, edging
+Jayjay aside. He looked over the halves of the coupling very
+carefully, then said: "I don't see anything wrong. I'll try it again."
+
+"Hold on a second," Jayjay said quietly. "Let me take a look, will
+you?"
+
+Smith handed him the torch. "Go ahead, but there's nothing wrong."
