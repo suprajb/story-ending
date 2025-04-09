@@ -1,4 +1,4 @@
-# Story Ending Generation Framework
+# Story Ending Generation
 
 A Python framework for generating and evaluating story endings using state-of-the-art language models.
 
