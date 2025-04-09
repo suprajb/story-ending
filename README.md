@@ -6,7 +6,7 @@ A Python framework for generating and evaluating story endings using state-of-th
 
 ```shell
 git clone <repository-url>
-cd seg
+cd story-ending
 pip install -r requirements.txt
 ```
 
