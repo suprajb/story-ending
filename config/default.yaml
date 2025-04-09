@@ -1,0 +1,93 @@
+# default configuration for Story Ending Generation
+
+# test mode generates random fixed endings, use this for testing
+test_mode: True
+# number of endings to generate per story
+num_endings: 5
+
+# prompt template 
+prompt_template: "Complete this story with a compelling ending:\n\n{beginning}\n\nEnding:"
+
+# default system prompt for all models
+# TODO: needs to be changed to a more specific one
+system_prompt: "You are a creative story writer"
+
+# models configuration
+models:
+  gpt-3-5:
+    module: "src.model_wrapper"
+    class: "OpenAIWrapper"
+    model_name: "gpt-3.5-turbo"
+    # uses OPENAI_API_KEY environment variable
+  
+  gpt-4:
+    module: "src.model_wrapper"
+    class: "OpenAIWrapper"
+    model_name: "gpt-4"
+    # uses OPENAI_API_KEY environment variable
+  
+  # Google Gemini models
+  # all use GOOGLE_API_KEY environment variable
+  gemini-1-5-pro:
+    module: "src.model_wrapper"
+    class: "GeminiWrapper"
+    model_name: "gemini-1.5-pro"
+    
+  
+  gemini-2-5-pro:
+    module: "src.model_wrapper"
+    class: "GeminiWrapper"
+    model_name: "gemini-2.5-pro-preview-03-25"
+    
+  
+  
+  gemini-2-0-flash:
+    module: "src.model_wrapper"
+    class: "GeminiWrapper"
+    model_name: "gemini-2.0-flash"
+    
+  
+  # vLLM-powered models
+  # example configurations for vLLM models
+  # Need to figure out config for UNITY cluster
+  vllm-llama3-7b:
+    module: "src.model_wrapper"
+    class: "VLLMWrapper"
+    model_name: "meta-llama/Llama-3-7b-chat-hf"
+    tensor_parallel_size: 1  
+    gpu_memory_utilization: 0.85
+    dtype: "half"  # Options: "half", "float", "bfloat16"
+    max_model_len: 4096
+  
+  vllm-llama3-8b:
+    module: "src.model_wrapper"
+    class: "VLLMWrapper"
+    model_name: "meta-llama/Meta-Llama-3-8B"
+    tensor_parallel_size: 1
+    gpu_memory_utilization: 0.85
+    dtype: "half"
+    max_model_len: 4096
+
+# generation parameters
+# TODO: document default values from the codebase
+generation_params:
+  temperature: 0.7
+  max_tokens: 1000
+  top_p: 0.9
+
+# evaluation configuration
+evaluation:
+  metrics:
+    faithfulness:
+      module: "src.evaluation.metrics"
+      class: "FaithfulnessMetric"
+    
+    creativity:
+      module: "src.evaluation.metrics"
+      class: "CreativityMetric"
+    
+    character_coverage:
+      module: "src.evaluation.metrics"
+      class: "CharacterCoverageMetric"
+    
+    # add custom metrics here if needed
