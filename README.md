@@ -120,7 +120,7 @@ models:
     # Additional configuration
 ```
 
-## Adding Custom Models
+## Adding Custom Metrics
 1. Create a new metric class that inherits from `EvaluationMetric`:
 
 ```python
