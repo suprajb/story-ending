@@ -5,8 +5,8 @@ test_mode: True
 # number of endings to generate per story
 num_endings: 5
 
-# prompt template 
-prompt_template: "Complete this story with a compelling ending:\n\n{beginning}\n\nEnding:"
+# prompt template, uses {beginning} as placeholder for the story beginning
+prompt_template: "Here is a story:\n\n{beginning}\n\n. Now, continue and generate the last chapter which serves as a suitable ending to the given story plot. Output only the ending without any explanations or additional text."
 
 # default system prompt for all models
 # TODO: needs to be changed to a more specific one
