@@ -1,1 +1,73 @@
+**/.DS_Store
+__pycache__/
+
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# Generated outputs
+outputs/
+runs/
+logs/
+
+# Project-specific
+*.log
+.env
+api_keys.txt
+secrets.yaml
+config/local.yaml
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
 .DS_Store
+.ipynb_checkpoints/
+*.sublime-*
+
+# Model files
+models/
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.gguf
+
+# Data files to possibly ignore
+data/large_datasets/
+data/private/
+
+# Temp files
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.bak
+tmp/
+temp/
