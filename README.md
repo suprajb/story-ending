@@ -24,10 +24,10 @@ export GOOGLE_API_KEY="your-google-key"
 
 Set `test_mode:True` in your config (default config is `config/default.yaml`) for debugging and testing, this returns a random ending from a list regardless of the story
 
-Set `test_mode:False` after setting up your API keys for actual API calls
+Set `test_mode:False` after setting up your API keys for actual generation API calls
 
 ```bash
-# Generate endings using all configured models
+# Generate endings using specified models
 python main.py --config config/default.yaml --models gpt-3-5,gemini-2-0-flash
 
 # Generate and evaluate
